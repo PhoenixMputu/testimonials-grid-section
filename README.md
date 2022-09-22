@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-[Solution](https://fluffykas.github.io/order-summary-component/)
+[Solution](https://phoenixmputu.github.io/testimonials-grid-section/)
 
 ## My process
 
